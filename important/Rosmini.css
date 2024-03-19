@@ -57,7 +57,19 @@
 
 /* teacher css */
 
-.teachers {
-  text-align: justify;
-  padding: 20px;
+.teachersname {
+  text-align: center;
+}
+
+h3 {
+  text-align: start;
+  margin: auto;
+}
+
+h4 {
+  text-align: center;
+}
+
+h5 {
+  text-align: end;
 }
