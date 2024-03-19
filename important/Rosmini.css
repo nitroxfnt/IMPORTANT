@@ -54,3 +54,10 @@
     text-align: center;
     margin-top: 20px;
   }
+
+/* teacher css */
+
+.teachers {
+  text-align: justify;
+  padding: 20px;
+}
