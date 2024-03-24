@@ -51,6 +51,9 @@ body, h1, h2, h3, h4, h5, p {
     height: auto;
   }
   
+  .introduction {
+    font-family: 'Courier New', Courier, monospace;
+  }
   
   footer {
     background-color: #4136d9; 
@@ -107,16 +110,33 @@ nav a:hover {
   color: #333;
 }
 
-.teachers {
+.teachersname {
   padding: 20px;
 }
 
-.teachers h2 {
+.teachersname h2 {
   margin-bottom: 10px;
+  text-align: center;
 }
 
-.teachers h3 {
+.teachersname h3 {
   margin-bottom: 5px;
+}
+
+.teachersname h4 {
+  margin-bottom: 5px;
+}
+
+.teachersname h5 {
+  margin-bottom: 5px;
+}
+
+.teachersname h6 {
+  margin-bottom: 5px;
+}
+
+.teachersphoto {
+  width: auto;
 }
 
 .footer {
