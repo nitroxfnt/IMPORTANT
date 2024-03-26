@@ -107,34 +107,8 @@ nav a:hover {
   height: auto;
 }
 
-<<<<<<< HEAD
 .Geographyteachers {
   width: 100px;
-=======
-.teachersname h2 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
-.teachersname h3 {
-  margin-bottom: 5px;
-}
-
-.teachersname h4 {
-  margin-bottom: 5px;
-}
-
-.teachersname h5 {
-  margin-bottom: 5px;
-}
-
-.teachersname h6 {
-  margin-bottom: 5px;
-}
-
-.teachersphoto {
-  width: 100%;
->>>>>>> d94fecde08da29a8982777a4874290d56b94608f
   height: auto;
 }
 
@@ -187,6 +161,10 @@ nav a {
 nav a:hover {
   background-color: #ddd;
   color: #333;
+}
+
+.infomation {
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .footer {
